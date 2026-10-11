@@ -33,7 +33,7 @@
 - 🛩 **爱折腾无人机 / FPV & Betaflight** —— 顺手改飞控固件
 - 🖋 **电子墨水 / E-ink** —— 在搓墨水屏挂牌 [inksight](https://www.inksight.site)
 - 📍 坐标 **Toronto** 🍁 —— 中国留学生
-- 🏳️‍⚧️ **正在成为自己 / Becoming myself** —— 还在路上，慢慢来
+- 🏳️‍⚧️ **向往成为自己 / Aspiring to become myself** —— 还没到，慢慢来
 - 💬 聊 SlimeVR / nRF52 / 嵌入式都可以，[B 站](https://space.bilibili.com/435969670)私信回得最快
 
 <details>
@@ -47,7 +47,7 @@
 - 🛩 **FPV & Betaflight** — tinkering with flight-controller firmware
 - 🖋 **E-ink** — hacking on an e-ink badge, [inksight](https://www.inksight.site)
 - 📍 Based in **Toronto** 🍁 — an international student from China
-- 🏳️‍⚧️ **Becoming myself** — still on the way, taking my time
+- 🏳️‍⚧️ **Aspiring to become myself** — not there yet, taking my time
 - 💬 Ping me about SlimeVR, nRF52 or embedded stuff — [Bilibili](https://space.bilibili.com/435969670) DM is the fastest
 
 </details>
