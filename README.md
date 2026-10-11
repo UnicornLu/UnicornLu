@@ -11,7 +11,7 @@
 
 <!-- 打字机动画 -->
 <a href="https://github.com/UnicornLu">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2CB67D&center=true&vCenter=true&width=640&height=45&lines=Hi%2C+I%27m+NiNi_Unicorn+%F0%9F%A6%84;%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%BC%80%E5%8F%91+%2F+SlimeVR+%E5%BC%80%E5%8F%91%E8%80%85;nRF52833+%C2%B7+BLE+%C2%B7+Zephyr+RTOS;%E7%94%A8+nRF52833+%E9%80%A0%E5%85%A8%E8%BA%AB%E8%BF%BD%E8%B8%AA;Full-body+tracking%2C+one+tracker+at+a+time" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2CB67D&center=true&vCenter=true&width=640&height=45&lines=Hi%2C+I%27m+NiNi;%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%BC%80%E5%8F%91+%2F+SlimeVR+%E5%BC%80%E5%8F%91%E8%80%85;nRF52833+%C2%B7+BLE+%C2%B7+Zephyr+RTOS;%E7%94%A8+nRF52833+%E9%80%A0%E5%85%A8%E8%BA%AB%E8%BF%BD%E8%B8%AA;Full-body+tracking%2C+one+tracker+at+a+time" />
 </a>
 
 <!-- 状态徽章 -->
@@ -26,7 +26,7 @@
 
 ---
 
-## 🦄 关于我 · About Me
+## NiNi · 关于我 · About Me
 
 - 🎓 **学生 / Student** —— 白天上课，晚上焊板子、调固件
 - 🥽 **SlimeVR 开发者 / SlimeVR Developer** —— 专注 nRF52833 全身追踪方案
@@ -160,8 +160,8 @@
 
 > 日拱一卒，功不唐捐。
 
-<img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:00A1D6,50:2CB67D,100:7F5AF0&height=150&section=footer&text=Thanks%20for%20stopping%20by%20%F0%9F%A6%84&fontSize=24&fontColor=ffffff&animation=twinkling" />
+<img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:00A1D6,50:2CB67D,100:7F5AF0&height=150&section=footer&text=Thanks%20for%20stopping%20by%20%C2%B7%20NiNi&fontSize=24&fontColor=ffffff&animation=twinkling" />
 
-<sub>⭐️ 如果我的某个仓库帮到你，点个 Star 就是最好的鼓励 · A star means a lot 🦄</sub>
+<sub>⭐️ 如果我的某个仓库帮到你，点个 Star 就是最好的鼓励 · A star means a lot — NiNi</sub>
 
 </div>
