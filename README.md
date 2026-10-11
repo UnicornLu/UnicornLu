@@ -17,7 +17,6 @@
 <!-- 状态徽章 -->
 <p>
   <a href="https://github.com/UnicornLu?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/UnicornLu?label=Followers&style=for-the-badge&logo=github&color=7F5AF0" /></a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=UnicornLu&label=Profile%20Views&color=2CB67D&style=for-the-badge" />
   <img alt="Student" src="https://img.shields.io/badge/Student-Yes-00A1D6?style=for-the-badge" />
   <img alt="Focus" src="https://img.shields.io/badge/Focus-SlimeVR_%2F_nRF52-7F5AF0?style=for-the-badge" />
 </p>
@@ -102,27 +101,6 @@
 | [**ARTEX**](https://github.com/UnicornLu/ARTEX) | AI 自主渗透测试系统（百度「agent+」攻防挑战赛冠军项目） | AI · Security |
 
 <sub>以上多为在上游开源项目基础上的二次开发（fork），主要乐趣在硬件适配与固件改动。</sub>
-
----
-
-## 📊 GitHub 数据 · Stats
-
-<div align="center">
-
-<a href="https://github.com/UnicornLu">
-  <img height="180em" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=UnicornLu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=420" />
-</a>
-<img height="180em" alt="GitHub streak" src="https://streak-stats.demolab.com?user=UnicornLu&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="95%" alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=UnicornLu&theme=tokyo-night&hide_border=true&area=true&custom_title=UnicornLu%20%C2%B7%20Contribution%20Graph" />
-
-<!-- 🏆 奖杯墙：这个服务偶尔抽风（502 打不开图），想开的话把下面这行的注释去掉
-<img width="95%" alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=UnicornLu&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" />
--->
-
-</div>
 
 ---
 
