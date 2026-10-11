@@ -56,7 +56,6 @@
 | :--- | :--- |
 | 🛰 **SlimeVR 追踪器** | 基于 nRF52833 的小体积追踪器，[追踪器固件](https://github.com/UnicornLu/SlimeVR-Tracker-nRF) 与 [接收端固件](https://github.com/UnicornLu/SlimeVR-Tracker-nRF-Receiver) 一起调 |
 | 🖋 **inksight** | 墨水屏挂牌：烧录 / 配置 / 预览一站式网页 → [inksight.site](https://www.inksight.site) |
-| 🛡 **ARTEX** | AI 自主渗透测试系统（百度「agent+」攻防挑战赛冠军项目） |
 
 ---
 
@@ -98,7 +97,6 @@
 | [**Adafruit_nRF52_Bootloader**](https://github.com/UnicornLu/Adafruit_nRF52_Bootloader) | nRF52 BLE SoC 的 USB 引导程序 | `C` · Make |
 | [**betaflight**](https://github.com/UnicornLu/betaflight) | 开源飞控固件，折腾无人机时顺手改 | `C` |
 | [**inksight**](https://github.com/UnicornLu/inksight) | 墨水屏挂牌：烧录 / 配置 / 预览 / 发现新玩法 | Web · E-ink |
-| [**ARTEX**](https://github.com/UnicornLu/ARTEX) | AI 自主渗透测试系统（百度「agent+」攻防挑战赛冠军项目） | AI · Security |
 
 <sub>以上多为在上游开源项目基础上的二次开发（fork），主要乐趣在硬件适配与固件改动。</sub>
 
