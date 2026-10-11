@@ -1,0 +1,38 @@
+# 🐍 生成贡献贪吃蛇动画
+# 作用：把 GitHub 贡献格子图渲染成贪吃蛇 SVG，并推送到 output 分支供 README 引用
+# 用法：仓库 Actions 页面 → "Generate Snake Animation" → Run workflow（首次必须手动跑一次）
+name: Generate Snake Animation
+
+on:
+  schedule:
+    # 每 12 小时自动刷新一次（UTC 时间）
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push SVGs to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
