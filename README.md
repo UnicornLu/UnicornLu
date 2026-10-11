@@ -27,12 +27,13 @@
 
 ## NiNi · 关于我 · About Me
 
-- 🎓 **学生 / Student** —— 白天上课，晚上焊板子、调固件
+- 🎓 **Gap 期 / Gap Year** —— 暂停学业的一年：白天写代码，晚上焊板子、调固件
 - 🥽 **SlimeVR 开发者 / SlimeVR Developer** —— 专注 nRF52833 全身追踪方案
 - 📡 **嵌入式固件 / Embedded Firmware** —— nRF52 · BLE · Zephyr RTOS，C 语言是主战场
 - 🛩 **爱折腾无人机 / FPV & Betaflight** —— 顺手改飞控固件
 - 🖋 **电子墨水 / E-ink** —— 在搓墨水屏挂牌 [inksight](https://www.inksight.site)
-- 📍 Based in **Toronto** 🍁
+- 📍 坐标 **Toronto** 🍁 —— 中国留学生
+- 🏳️‍⚧️ **正在成为自己 / Becoming myself** —— 还在路上，慢慢来
 - 💬 聊 SlimeVR / nRF52 / 嵌入式都可以，[B 站](https://space.bilibili.com/435969670)私信回得最快
 
 <details>
@@ -40,12 +41,13 @@
 
 ### Hi there, I'm NiNi_Unicorn 👋
 
-- 🎓 **Student** — classes by day, soldering iron and firmware by night
+- 🎓 **Gap Year** — a year off school: code by day, soldering iron and firmware by night
 - 🥽 **SlimeVR Developer** — building full-body tracking around nRF52833
 - 📡 **Embedded Firmware** — nRF52 · BLE · Zephyr RTOS, mostly written in C
 - 🛩 **FPV & Betaflight** — tinkering with flight-controller firmware
 - 🖋 **E-ink** — hacking on an e-ink badge, [inksight](https://www.inksight.site)
-- 📍 Based in **Toronto** 🍁
+- 📍 Based in **Toronto** 🍁 — an international student from China
+- 🏳️‍⚧️ **Becoming myself** — still on the way, taking my time
 - 💬 Ping me about SlimeVR, nRF52 or embedded stuff — [Bilibili](https://space.bilibili.com/435969670) DM is the fastest
 
 </details>
